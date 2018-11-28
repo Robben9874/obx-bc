@@ -59,7 +59,7 @@ client.on('message',async message => {
              message.delete(); 
             };     
             });
-const devs = ["371060496276783104"]
+const devs = ["420287914149150731"]
 
 const adminprefix = "o";
 client.on('message', message => {
